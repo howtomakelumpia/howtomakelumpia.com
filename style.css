@@ -1,0 +1,52 @@
+#header {
+    background-color: #FFF4C2;
+    text-align: center;
+    padding: 10px;
+}
+body {
+    background-color: #FFF4C2;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #6b3e2e
+}
+
+h1 {
+    margin: 25;
+}
+
+#container {
+    background-color: #CC9966;
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+#content {
+    padding: 20px;
+}
+#nav {
+    width: 180px;
+    float: left;
+}
+
+#nav .selected{
+    font-weight: bold;
+}
+
+#nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#main {
+    width: 600px;
+    float: right;
+}
+#footer {
+    clear: both;
+    padding: 10px;
+    text-align: right;
+}
